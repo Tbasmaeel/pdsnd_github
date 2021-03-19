@@ -1,20 +1,31 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
+<<<<<<< HEAD
 ###First Changes for the documentation branch
 ### Second comment for the documentation testing
 
+||||||| e6d4740
+=======
+
+
+### this is the third edit ont he file for the refactoring test
+>>>>>>> refactoring
 ### Date created
-Include the date you created this project and README file.
+I have created the file on March 19 2021
 
 ### Project Title
-Replace the Project Title
+Udacity-project3 -Bikeshare-reposatory
 
 ### Description
-Describe what your project is about and what it does
+the project works on using gitbash to work multiteam mates to work togethar on github. using commands on git bash this will help working locally with remote updates on github.
 
 ### Files used
-Include the files used
+.gitignore
+bikeshare.py
+readme
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+this comment helped me with forced origin url, and the push command first time, so thank you
+https://stackoverflow.com/questions/11696295/rejected-master-master-non-fast-forward 
 
