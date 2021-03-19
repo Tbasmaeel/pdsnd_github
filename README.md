@@ -4,13 +4,6 @@
 ###First Changes for the documentation branch
 ### Second comment for the documentation testing
 
-||||||| e6d4740
-=======
-
-
-### this is the third edit ont he file for the refactoring test
->>>>>>> refactoring
-### Date created
 I have created the file on March 19 2021
 
 ### Project Title
